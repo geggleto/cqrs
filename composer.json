@@ -1,0 +1,15 @@
+{
+    "name": "geggleto/cqrs",
+    "description" : "Basic Command Bus/Event Bus for CQRS",
+    "authors": [
+        {
+            "name": "Glenn Eggeton",
+            "email": "geggleton@mobials.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "Cqrs\\" : "src"
+        }
+    }
+}
